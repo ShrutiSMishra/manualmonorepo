@@ -1,0 +1,1 @@
+export const VALUE = 'Hello from common!';
